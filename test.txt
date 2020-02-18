@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TODO: Add contents for testfile only one time
+=======
+TODO: Add contents for testfile only to locate it and place it
+>>>>>>> 5366b8821e794c66db98a6c8b104f3bb40982e61
